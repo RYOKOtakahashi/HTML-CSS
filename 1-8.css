@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.fab fa-twitter {
+	size: 32px;
+}
+
+.fab fa-facebook {
+	size: 32px;
+}
+
+.position {
+	position: absolute;
+	right: 40px;
+	top: 100px;
+}
